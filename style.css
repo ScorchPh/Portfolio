@@ -1,0 +1,21 @@
+   body 
+   {background-image:url('UNI.jpeg');
+       background-repeat: no-repeat;
+  background-attachment: fixed;
+   }
+   b 
+   {font-family: courier;
+       color:#00FFD4;
+   }
+   p 
+{font-family: century;
+    color:#00FFD4;
+}
+    h2 
+    {font-family: arial black;
+    color:#80FF00;}
+    ul 
+    {font-family: serif;}
+    td {color:#00FF8B;}
+    
+    
