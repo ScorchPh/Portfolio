@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel{
+  height: 50vh;
+}
+
+
+.carousel-inner{
+ height: 500vh;
+width: 300vh;
+}
+
+.carousel-inner img{
+  height: 500px;
+width: 500px;
+object-fit: cover;
+}
+img{
+  height: 50%;
+  width: 50p%;
+}
